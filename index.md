@@ -3,12 +3,12 @@
 
 # Raúl (Dibildos) González
 
-_GitHub Solution Architect @Solidify.dev_
+_GitHub Solution Architect @Solidify.dev_  
 Madrid (Spain) – Remote
 
 ![Contact information](images/contact-info.png)
 
-#### Introduction
+### Introduction
 
 Computer Science Engineer with more than 25 years of experience in companies like Microsoft, Citrix, Capgemini, Cognizant or GitHub. Occupying technical, management and customer facing roles. Co-founder of two Start-ups.
 
@@ -69,15 +69,15 @@ Bachelors in computer science and business administration
 
 #### GitHub
 
-GitHub Administration Certification
-GitHub Actions Certification
-GitHub Advanced Security Certification
+GitHub Administration Certification  
+GitHub Actions Certification  
+GitHub Advanced Security Certification  
 
-Actions Training Accreditation
-Training Accreditation Accreditation
-Developers Training Accreditation
-Copilot Training Accreditation
-GEI Migration Accreditation
+Actions Training Accreditation  
+Training Accreditation Accreditation  
+Developers Training Accreditation  
+Copilot Training Accreditation  
+GEI Migration Accreditation  
 
 #### Citrix
 
@@ -85,10 +85,10 @@ Certified Implementing Citrix XenApp 5.0
 
 #### Microsoft
 
-Graduate European Service Academy (First promotion)
+Graduate European Service Academy (First promotion)  
 Microsoft Certified System Engineer (Windows NT 4.0)
 
 ### Others
 
-**Escuela de Organización Industrial** (EOI)
+**Escuela de Organización Industrial** (EOI)  
 Leadership seminar for Team Leaders
