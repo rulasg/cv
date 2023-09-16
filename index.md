@@ -23,6 +23,8 @@ Leading teams and projects of up to 30 people. Managing projects of several mill
 
 Without losing his political and commercial vision of software, Raúl is looking for positions that allow him to apply new technologies and services to international customers.
 
+---
+
 ### Professional experience
 
 **Senior GitHub Solutions Architect** @ [solidify.dev](https://solidify.dev) | 2022 – 2023
@@ -65,6 +67,8 @@ First as an escalation engineer, and later as a consultant, the main responsibil
 
 Hired from college as member of the European Service Academy Program, I ran all the Technical Support carrier to Escalation Engineer for 2003. The Role had to ensure the highest technical service for EMEA and WW on specialty. Main responsibilities were to build, train and assist SME teams, take ownership of hot political or technical cases, scope down to code any issue and work with Dev Teams to fix it and provide product supportability feedback for product improvement.
 
+---
+
 ### DEGREES
 
 Bachelors in computer science and business administration @ **Antonio de Nebrija University**
@@ -85,5 +89,5 @@ Microsoft | Microsoft Certified System Engineer (Windows NT 4.0)
 
 ### Others
 
-**Escuela de Organización Industrial** (EOI)  
-Leadership seminar for Team Leaders
+Leadership seminar for Team Leaders @ **Escuela de Organización Industrial** (EOI)  
+
