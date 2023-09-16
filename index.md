@@ -1,5 +1,5 @@
 
-![Alt text](images/profile-head.png)
+![Alt text](images/profile-image-2.png)
 
 # Raúl (Dibildos) González
 
