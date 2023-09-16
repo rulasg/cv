@@ -62,8 +62,7 @@ Hired from college as member of the European Service Academy Program, I ran all 
 
 ### DEGREES
 
-**Antonio de Nebrija University**
-Bachelors in computer science and business administration
+Bachelors in computer science and business administration @ **Antonio de Nebrija University**
 
 ### Certifications and accreditation
 
