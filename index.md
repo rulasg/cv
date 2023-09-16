@@ -4,7 +4,7 @@
 # Raúl (Dibildos) González
 
 _GitHub Solution Architect @Solidify.dev_  
-Madrid (Spain) – Remote
+Madrid (Spain) – Remote  
 <font size="2"> [rulasg@outlook.com](mailto:rulasg@outlook.com) </font>  
 <font size="2"> [+34639163591](https://wa.me/34639163591) </font>  
 <font size="2"> [Linkedin](https://linkedin.com/in/rulasg) </font>  
