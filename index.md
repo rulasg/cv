@@ -67,26 +67,17 @@ Bachelors in computer science and business administration
 
 ### Certifications and accreditation
 
-#### GitHub
-
-GitHub Administration Certification  
-GitHub Actions Certification  
-GitHub Advanced Security Certification  
-
-Actions Training Accreditation  
-Training Accreditation Accreditation  
-Developers Training Accreditation  
-Copilot Training Accreditation  
-GEI Migration Accreditation  
-
-#### Citrix
-
-Certified Implementing Citrix XenApp 5.0
-
-#### Microsoft
-
-Graduate European Service Academy (First promotion)  
-Microsoft Certified System Engineer (Windows NT 4.0)
+GitHub | GitHub Administration Certification  
+GitHub | GitHub Actions Certification  
+GitHub | GitHub Advanced Security Certification  
+GitHub | Actions Training Accreditation  
+GitHub | Training Accreditation Accreditation  
+GitHub | Developers Training Accreditation  
+GitHub | Copilot Training Accreditation  
+GitHub | GEI Migration Accreditation  
+Citrix | Certified Implementing Citrix XenApp 5.0
+Microsoft | Graduate European Service Academy (First promotion)  
+Microsoft | Microsoft Certified System Engineer (Windows NT 4.0)
 
 ### Others
 
