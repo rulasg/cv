@@ -13,10 +13,6 @@ Madrid (Spain) – Remote
 
 ---
 
-email | [rualsg@outlook.com](mailto:rualsg@outlook.com)
-WSP | [+34639163591](https://wa.me/34639163591)
-Linkedin | [Raul Gonzalez](https://linkedin.com/in/rulasg)
-
 ### Introduction
 
 Computer Science Engineer with more than 25 years of experience in companies like Microsoft, Citrix, Capgemini, Cognizant or GitHub. Occupying technical, management and customer facing roles. Co-founder of two Start-ups.
