@@ -73,19 +73,19 @@ Hired from college as member of the European Service Academy Program, I ran all 
 
 ### Certifications and accreditation
 
-GitHub | GitHub Administration Certification  
-GitHub | GitHub Actions Certification  
-GitHub | GitHub Advanced Security Certification  
-GitHub | Actions Training Accreditation  
-GitHub | Training Accreditation Accreditation  
-GitHub | Developers Training Accreditation  
-GitHub | Copilot Training Accreditation  
-GitHub | GEI Migration Accreditation  
-Citrix | Certified Implementing Citrix XenApp 5.0
-Microsoft | Graduate European Service Academy (First promotion)  
-Microsoft | Microsoft Certified System Engineer (Windows NT 4.0)
+- GitHub Administration Certification @ **GitHub**
+- GitHub Actions Certification @ **GitHub**
+- GitHub Advanced Security Certification @ **GitHub**
+- Actions Training Accreditation @ **GitHub**
+- Training Accreditation Accreditation @ **GitHub**
+- Developers Training Accreditation @ **GitHub**
+- Copilot Training Accreditation @ **GitHub**
+- GEI Migration Accreditation @ **GitHub**
+- Certified Implementing Citrix XenApp 5.0@ **Citrix**
+- Graduate European Service Academy @ **Microsoft**
+- Microsoft Certified System Engineer (Windows NT 4.0) @ **Microsoft**
 
 ### Others
 
-Leadership seminar for Team Leaders @ **Escuela de Organización Industrial** (EOI)  
+- Leadership seminar for Team Leaders @ **Escuela de Organización Industrial** (EOI)  
 
