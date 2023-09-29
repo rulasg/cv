@@ -1,12 +1,12 @@
 
 <img src="images/profile-image-2.png" width="150">
 
-# Raúl (Dibildos) González
+# Raúl (Dibildos) González [<font size="6"> 🇪🇸 </font>](es.md)<font size="6"> 🇬🇧 </font> 
 
 _GitHub Solution Architect @ Solidify.dev_  
 Madrid (Spain) – Remote
 
- <font size="5"> 🇪🇸 </font><font size="5"> 🇬🇧 </font> | [rulasg@outlook.com](mailto:rulasg@outlook.com) | [+34639163591](https://wa.me/34639163591) | [Linkedin](https://linkedin.com/in/rulasg) | [@rulasg](https://github.com/rulasg)
+ [rulasg@outlook.com](mailto:rulasg@outlook.com) | [+34639163591](https://wa.me/34639163591) | [Linkedin](https://linkedin.com/in/rulasg) | [@rulasg](https://github.com/rulasg)
 
 ---
 
