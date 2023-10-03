@@ -24,7 +24,7 @@ Without losing his political and commercial vision of software, Raúl is looking
 
 ### Professional experience
 
-**Senior GitHub Solutions Architect** @ [solidify.dev](https://solidify.dev) | 2022 – 2023
+**Senior GitHub Solutions Architect** @ [solidify.dev](https://solidify.dev) | 2023 - Present
 
 Member of the advisory team to deliver GitHub services to customers as needed. Trainings, health checks, migrations, beyond others. Creating service offerings and manage the execution and improvements. Manage different customers relation cross engagements.
 
