@@ -28,7 +28,7 @@ Without losing his political and commercial vision of software, Raúl is looking
 
 Member of the advisory team to deliver GitHub services to customers as needed. Trainings, health checks, migrations, beyond others. Creating service offerings and manage the execution and improvements. Manage different customers relation cross engagements.
 
-Technical contact of the revenue account team responsible of selling GitHub products to the biggest companies in the region. Focusing lately on GitHub Copilot and GitHub AI solutions for enhancing the SDLC process on enterprises.
+Technical contact of the revenue account team responsible of selling GitHub products to the biggest companies in the region. Focusing lately on GitHub Copilot and GitHub AI solutions for enhancing the SDLC process on enterprises.daasasaSas
 Open Spain and southern Europe as a new region for the company.
 
 **Senior Enterprise Solutions Engineer** @ [github.com](https://github.com) |  2022 – 2023
