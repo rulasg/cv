@@ -1,4 +1,3 @@
-
 <img src="images/profile-image-2.png" width="150">
 
 # Raúl (Dibildos) González [<font size="6"> 🇪🇸 </font>](es.md)<font size="6"> 🇬🇧 </font> 
@@ -12,93 +11,92 @@ Madrid (Spain) – Remote
 
 ### Introduction
 
-Computer Science Engineer with more than 25 years of experience in companies like Microsoft, Citrix, Capgemini, Cognizant or GitHub. Occupying technical, management and customer facing roles. Co-founder of two Start-ups.
+Computer Science Engineer with 25+ years of experience across leading companies including Microsoft, Citrix, Capgemini, Cognizant, and GitHub. Background spans technical, management, and customer-facing roles, plus co-founding two startups.
 
-Experience on all phase of the SDLC, allows him to understand projects globally, identifying dependencies, anticipating problems, and detecting areas of improvement.
+Deep experience across all SDLC phases enables a global project perspective—identifying dependencies, anticipating challenges, and spotting improvement opportunities.
 
-Leading teams and projects of up to 30 people. Managing projects of several million euros. Selling product and services to top enterprises. All using modern methodologies in the international arena.
+Proven track record leading teams and projects up to 30 people, managing multi-million euro budgets, and delivering enterprise solutions using modern methodologies in international environments.
 
-Without losing his political and commercial vision of software, Raúl is looking for positions that allow him to apply new technologies and services to international customers.
+Passionate about applying cutting-edge technologies and services to solve real customer challenges while maintaining strong business and technical vision.
 
 ---
 
-### Professional experience
+### Professional Experience
 
-**Senior Enterprise Solutions Engineer** @ [github.com](https://github.com) |  2024 – Present
+**Senior Enterprise Solutions Engineer** @ [github.com](https://github.com) | 2024 – Present
 
-Technical contact of the revenue account team responsible of selling GitHub products to the biggest companies in the region. Focusing lately on GitHub Copilot and GitHub AI solutions for enhancing the SDLC process on enterprises. As the only Spanish speaker GitHub Solutions Engineer in Europe, he worked on the top enterprises of the region, collaborating with Microsoft sales to offer integrated deals GitHub/Microsoft to customers. Defining new sales strategies to create new customers on the region.
-
+Technical lead for revenue teams selling GitHub products to major regional enterprises. Specializing in GitHub Copilot and AI solutions that enhance enterprise SDLC processes. As Europe's only Spanish-speaking GitHub Solutions Engineer, I work with top regional enterprises and collaborate with Microsoft sales on integrated GitHub/Microsoft offerings. Currently developing new sales strategies to expand our regional customer base.
 
 **Principal GitHub Solutions Architect** @ [solidify.dev](https://solidify.dev) | 2023 - 2024
 
-Member of the advisory team to deliver GitHub services to customers as needed. Trainings, health checks, migrations, beyond others. Creating service offerings and manage the execution and improvements. Manage different customers relation cross engagements.
+Advisory team member delivering comprehensive GitHub services—training, health checks, migrations, and more. Created service offerings and managed execution improvements while handling cross-engagement customer relationships.
 
-Manage accounts to drive and grow trust on different accounts accounts. Define and drive strategic plan to make the best use of GitHub on big enterprises, understand their business and drive change to improve efficiency on the execution of their SDLC. 
+Drove account growth and trust-building across multiple enterprise accounts. Defined and executed strategic plans for optimal GitHub adoption at large enterprises, understanding their business needs and driving SDLC efficiency improvements.
 
-Part of the revenue account team responsible of selling GitHub products to the biggest companies in the region. Focusing lately on GitHub Copilot and GitHub AI solutions for enhancing the SDLC process on the enterprises.
-Open Spain and southern Europe as a new region for the company.
+Served as technical contact for revenue teams selling GitHub products to major regional companies, focusing on GitHub Copilot and AI solutions. Successfully opened Spain and Southern Europe as a new market for the company.
 
 **Senior GitHub Solutions Architect** @ [solidify.dev](https://solidify.dev) | 2023
 
-Member of the advisory team to deliver GitHub services to customers as needed. Trainings, health checks, migrations, beyond others. Creating service offerings and manage the execution and improvements. Manage different customers relation cross engagements.
+Delivered GitHub advisory services including training, health checks, and migrations. Developed service offerings and managed execution improvements across multiple customer engagements.
 
-Technical contact of the revenue account team responsible of selling GitHub products to the biggest companies in the region. Focusing lately on GitHub Copilot and GitHub AI solutions for enhancing the SDLC process on enterprises.daasasaSas
+Technical contact for revenue teams selling GitHub products to enterprise customers, with focus on GitHub Copilot and AI solutions for SDLC enhancement.
 
-**Senior Enterprise Solutions Engineer** @ [github.com](https://github.com) |  2022 – 2023
+**Senior Enterprise Solutions Engineer** @ [github.com](https://github.com) | 2022 – 2023
 
-Technical contact of the revenue account team responsible of selling GitHub products to the biggest companies in the region. Focusing lately on GitHub Copilot and GitHub AI solutions for enhancing the SDLC process on enterprises. As the only Spanish speaker GitHub Solutions Engineer in Europe, he worked on the top enterprises of the region, collaborating with Microsoft sales to offer integrated deals GitHub/Microsoft to customers. Defining new sales strategies to create new customers on the region.
+Technical lead for revenue teams selling GitHub solutions to major regional enterprises. Specialized in GitHub Copilot and AI tools for SDLC optimization. As Europe's only Spanish-speaking GitHub Solutions Engineer, partnered with Microsoft sales teams on integrated offerings and developed new regional customer acquisition strategies.
 
 **Project Manager** @ [wizeline.com](https://wizeline.com) | 2021 – 2022
 
-Responsible of delivery and the viability of several projects using modern methodologies. Managing several projects at the same time. Managing budget, resources, people, accounting communication and customer commercial communication and relation. All on a full remote and international environment. Helping to grow the region from 9 employees to more than 60 in less than a year. Growing projects more than 30% short after launch.
+Managed delivery and viability of multiple concurrent projects using modern methodologies. Handled budget, resources, team management, and customer communications in a fully remote international environment. Contributed to regional growth from 9 to 60+ employees within a year, achieving 30%+ project growth shortly after launch.
 
-**Project Manager / Mobile Architect** @ [cognizant.com](https://cognizant.com) |  2017 – 2021
+**Project Manager / Mobile Architect** @ [cognizant.com](https://cognizant.com) | 2017 – 2021
 
-As Project Manager he was responsible of delivery and the viability of several projects using agile methodologies. Managing more than 25 people on 5 projects at the same time, finding synergies and efficiency cross projects. Managing budget, resources, people, commercial communication, accounting communication internally and with the customer. Looking after the wellbeing of the team during the COVID lock down. Increasing delivery speed and growing teams up to 50% year over year.
+**Project Manager:** Led delivery and viability of multiple projects using agile methodologies. Managed 25+ people across 5 concurrent projects, identifying cross-project synergies and efficiencies. Oversaw budget, resources, team wellbeing (especially during COVID), and customer communications. Achieved 50% year-over-year growth in delivery speed and team expansion.
 
-As Mobile Architect he was the main responsibilities of having a holistic technical the solution under development. Define the high-level architecture of the mobile application and the integration with dependencies. Functional and strategic advisor of the overall mobile solution, customer contact and member of the project governance teams. (Projects under NDA)
+**Mobile Architect:** Owned holistic technical vision for solutions under development. Defined high-level mobile application architecture and integration patterns. Served as functional and strategic advisor, customer contact, and governance team member for mobile solutions.
 
 **Mobile Architect** @ [sogeti.com](https://sogeti.com) | 2016 – 2017
 
-Main technical responsibilities of the projects. End to end analysis, design, execution testing and delivery of the solutions. From team drive and training to customer engagement and post project follow-up.
-Defined a base architecture and framework for all Sogeti´s Xamarin based mobile cloud solutions.  
-Significant projects include reinforcement on governance and team management on FIVB mobile app development driven my Microsoft. (Other Projects under NDA).
+Led end-to-end technical responsibilities from analysis through delivery. Managed team development, training, customer engagement, and post-project follow-up.
+
+Defined base architecture and framework for all Sogeti Xamarin-based mobile cloud solutions. Notable projects include governance and team management reinforcement for FIVB mobile app development with Microsoft.
 
 **Architect, Cloud Engineer and Developer** @ [kinscell.com](https://kinscell.com) | 2015 – 2016
 
-Founder of BiT21, Cloud solutions and services company. Main activity was the R&D of affordable cloud solutions for Small and Medium Business.
-Co-Founder, architect and developer at Wifi Kinscell Solutions. Owner of In2C, solution that empowered just in time communication to retail stores and brands, with existing and protectional new consumers.
+**BiT21 Founder:** Founded cloud solutions company focused on R&D of affordable cloud solutions for SMBs.
+
+**Kinscell Co-Founder:** Co-founded WiFi solutions company. Architected and developed In2C—enabling just-in-time communication between retail stores/brands and existing/potential consumers.
 
 **Support Engineer – Virtualization Consultant** @ [citrix.com](https://citrix.com) | 2011 – 2015
 
-First as an escalation engineer, and later as a consultant, the main responsibility was to provide the required services to allow the highest customer satisfaction on the implementation, adoption and use of Citrix Technologies, focusing on EMEA international customers. Main responsibilities were to build, train and assist SME teams, take ownership of hot political or technical cases, scope down to code any issue and work with Dev Teams to fix it and provide product supportability feedback for product improvement.
+Escalation engineer and consultant ensuring highest customer satisfaction for Citrix technology implementation and adoption across EMEA. Built and trained SME teams, owned critical technical and political cases, debugged code-level issues, and collaborated with dev teams on fixes. Provided product supportability feedback for continuous improvement.
 
 **Support/Escalation Engineer** @ [microsoft.com](https://microsoft.com) | 1998 – 2011
 
-Hired from college as member of the European Service Academy Program, I ran all the Technical Support carrier to Escalation Engineer for 2003. The Role had to ensure the highest technical service for EMEA and WW on specialty. Main responsibilities were to build, train and assist SME teams, take ownership of hot political or technical cases, scope down to code any issue and work with Dev Teams to fix it and provide product supportability feedback for product improvement.
+Started through European Service Academy Program straight from university, advancing to Escalation Engineer by 2003. Delivered highest-level technical service for EMEA and worldwide specialties. Built and trained SME teams, owned critical cases, performed code-level debugging, and collaborated with development teams on solutions and product improvements.
 
 ---
 
-### Degrees
+### Education
 
-- Bachelors in computer science and business administration @ **Antonio de Nebrija University**
-- Bachelors in computer science @ **University of Wales**
+- Bachelor's in Computer Science and Business Administration @ **Antonio de Nebrija University**
+- Bachelor's in Computer Science @ **University of Wales**
 
-### Certifications and accreditation
+### Certifications and Accreditations
 
 - GitHub Administration Certification @ **GitHub**
 - GitHub Actions Certification @ **GitHub**
 - GitHub Advanced Security Certification @ **GitHub**
 - Actions Training Accreditation @ **GitHub**
-- Training Accreditation Accreditation @ **GitHub**
+- Training Accreditation @ **GitHub**
 - Developers Training Accreditation @ **GitHub**
 - Copilot Training Accreditation @ **GitHub**
 - GEI Migration Accreditation @ **GitHub**
-- Certified Implementing Citrix XenApp 5.0@ **Citrix**
+- Certified Implementing Citrix XenApp 5.0 @ **Citrix**
 - Graduate European Service Academy @ **Microsoft**
 - Microsoft Certified System Engineer (Windows NT 4.0) @ **Microsoft**
 
-### Others
+### Additional Training
 
-- Leadership seminar for Team Leaders @ **Escuela de Organización Industrial** (EOI)  
+- Leadership Seminar for Team Leaders @ **Escuela de Organización Industrial** (EOI)
 
