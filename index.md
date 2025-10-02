@@ -24,7 +24,12 @@ Without losing his political and commercial vision of software, Raúl is looking
 
 ### Professional experience
 
-**Principal GitHub Solutions Architect** @ [solidify.dev](https://solidify.dev) | 2023 - Present
+**Senior Enterprise Solutions Engineer** @ [github.com](https://github.com) |  2024 – Present
+
+Technical contact of the revenue account team responsible of selling GitHub products to the biggest companies in the region. Focusing lately on GitHub Copilot and GitHub AI solutions for enhancing the SDLC process on enterprises. As the only Spanish speaker GitHub Solutions Engineer in Europe, he worked on the top enterprises of the region, collaborating with Microsoft sales to offer integrated deals GitHub/Microsoft to customers. Defining new sales strategies to create new customers on the region.
+
+
+**Principal GitHub Solutions Architect** @ [solidify.dev](https://solidify.dev) | 2023 - 2024
 
 Member of the advisory team to deliver GitHub services to customers as needed. Trainings, health checks, migrations, beyond others. Creating service offerings and manage the execution and improvements. Manage different customers relation cross engagements.
 
