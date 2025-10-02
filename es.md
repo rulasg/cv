@@ -23,7 +23,11 @@ Sin perder su visión política y comercial del software, Raúl busca posiciones
 
 ### Experiencia profesional
 
-**Arquitecto de Soluciones Senior en GitHub** @ [solidify.dev](https://solidify.dev) | 2022 – 2023
+**Ingeniero Senior de Soluciones Empresariales en GitHub** @ [github.com](https://github.com) | 2022 – Presente
+
+Encargado del desarrollo de soluciones técnicas en las grandes empresas de la región, actuando como asesor técnico de confianza para la optimización y maduración de métodos y procesos en el desarrollo y adopción de mejores prácticas. Ayuda a las empresas a tomar decisiones informadas sobre el uso y explotación de la plataforma GitHub, especialmente en la adopción de nuevas tecnologías como GitHub Copilot en la era del desarrollo asistido por AI. Informa a DevOps Leads, CIOs y CTOs sobre los riesgos y beneficios de adoptar nuevas tecnologías y metodologías, así como el posible impacto empresarial de no tener un ciclo de vida de desarrollo de software robusto y fiable. Lidera demostraciones, presentaciones técnicas y participa en eventos del sector.
+
+**Arquitecto de Soluciones Senior en GitHub** @ [solidify.dev](https://solidify.dev) | 2022 – 2024
 
 Miembro del equipo asesor para ofrecer servicios de GitHub según sea necesario para los clientes. Capacitación, revisiones de salud, migraciones, entre otros. Creación de ofertas de servicios y gestión de la ejecución y mejoras. Gestión de relaciones con diferentes clientes en múltiples compromisos.
 
@@ -74,6 +78,11 @@ Certificaciones y acreditaciones
 - Acreditación de Entrenamiento de Copilot en GitHub
 - Acreditación de Migración GEI en GitHub
 - Implementación Certificada de Citrix XenApp 5.0 en Citrix
+- Graduado de la Academia de Servicio Europeo de Microsoft
+- Ingeniero de Sistemas Certificado de Microsoft (Windows NT 4.0) en Microsoft
+
+Otros
+- Seminario de Liderazgo para Líderes de Equipos en la Escuela de Organización Industrial (EOI)
 - Graduado de la Academia de Servicio Europeo de Microsoft
 - Ingeniero de Sistemas Certificado de Microsoft (Windows NT 4.0) en Microsoft
 
