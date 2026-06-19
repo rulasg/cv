@@ -2,7 +2,7 @@
 
 # Raúl (Dibildos) González <font size="6"> 🇪🇸 </font>[<font size="6"> 🇬🇧 </font>](index.md)
 
-_Ingeniero Senior de Soluciones Empresariales @ GitHub_  
+_Ingeniero Senior de Soluciones para gran Empresa @ GitHub_  
 Madrid (España) – Remoto
 
 [rulasg@outlook.com](mailto:rulasg@outlook.com) | [LinkedIn](https://linkedin.com/in/rulasg) | [@rulasg](https://github.com/rulasg)
