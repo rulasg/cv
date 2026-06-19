@@ -2,10 +2,10 @@
 
 # Raúl (Dibildos) González [<font size="6"> 🇪🇸 </font>](es.md)<font size="6"> 🇬🇧 </font> 
 
-_GitHub Solution Architect @ Solidify.dev_  
+_Senior Enterprise Solutions Engineer @ GitHub_  
 Madrid (Spain) – Remote
 
- [rulasg@outlook.com](mailto:rulasg@outlook.com) | [+34639163591](https://wa.me/34639163591) | [Linkedin](https://linkedin.com/in/rulasg) | [@rulasg](https://github.com/rulasg)
+ [rulasg@outlook.com](mailto:rulasg@outlook.com) | [Linkedin](https://linkedin.com/in/rulasg) | [@rulasg](https://github.com/rulasg)
 
 ---
 
