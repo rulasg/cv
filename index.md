@@ -25,7 +25,7 @@ Passionate about applying cutting-edge technologies and services to solve real c
 
 **Senior Enterprise Solutions Engineer** @ [github.com](https://github.com) | 2024 – Present
 
-Technical lead for revenue teams selling GitHub products to major regional enterprises. Specializing in GitHub Copilot and AI solutions that enhance enterprise SDLC processes. As Europe's only Spanish-speaking GitHub Solutions Engineer, I work with top regional enterprises and collaborate with Microsoft sales on integrated GitHub/Microsoft offerings. Currently developing new sales strategies to expand our regional customer base.
+Technical lead for revenue teams selling GitHub products to major regional enterprises. Specializing in GitHub Copilot and AI solutions that enhance enterprise SDLC processes. I work with top regional enterprises and collaborate with Microsoft sales on integrated GitHub/Microsoft offerings. Currently developing new sales strategies to expand our regional customer base.
 
 **Principal GitHub Solutions Architect** @ [solidify.dev](https://solidify.dev) | 2023 - 2024
 
